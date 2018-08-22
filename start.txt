@@ -1,0 +1,5 @@
+Test Git Quick Start demo >> start.txt
+ls
+echo Test Git Quick Stard demo >>strat.txt
+echo Test Git Quick Start demo
+Test Git Quick Stard demo
